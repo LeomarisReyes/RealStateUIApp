@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{A85AC48E-1631-44E1-B0A6-BDCF0F35E6BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.RealStateUIApp.Android PreferredExecutionTarget="Android.copy_pixel_2_pie_9_0_-_api_28_1" />
+  <MonoDevelop.Ide.ItemProperties.RealStateUIApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.19246DB7-ED17-4769-94AD-22BF5FA8FA24" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealStateUIApp/Views/HousePage.xaml">
+    <Files>
+      <File FileName="RealStateUIApp/ViewModels/HouseViewModel.cs" Line="32" Column="29" />
+      <File FileName="RealStateUIApp/Models/Features.cs" />
+      <File FileName="RealStateUIApp/Views/HousePage.xaml" Line="18" Column="51" />
+      <File FileName="RealStateUIApp/Views/HousePage.xaml.cs" />
+      <File FileName="RealStateUIApp.Android/MainActivity.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RealStateUIApp" expanded="True" selected="True">
+            <Node name="RealStateUIApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HousePage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="RealStateUIApp.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="RealStateUIApp.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
